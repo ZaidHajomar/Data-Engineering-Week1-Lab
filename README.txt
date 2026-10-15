@@ -20,3 +20,9 @@ Recommendation: Check whether this is a duplicate record. If it is, remove the d
 
 ## What the pipeline does
 Complete after the lab: In one sentence, describe how the data moves from the source to a useful output.
+
+
+- Rows loaded: 8 
+- Rows with a missing city: 1 
+- Rows with a non-positive quantity: 1 
+- Rows returned by the filtered query: 5 
